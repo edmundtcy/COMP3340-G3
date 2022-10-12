@@ -1,3 +1,3 @@
-TRPO
+#TRPO Member List
 
 Edmund Tsang
