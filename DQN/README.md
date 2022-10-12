@@ -1,4 +1,4 @@
 # DQN Member List
 
-Samson
-Wally
+- Samson
+- Wally
