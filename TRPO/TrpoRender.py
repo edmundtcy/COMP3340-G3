@@ -33,7 +33,7 @@ for episode in trange(episodes):
     state = env.reset()
     total_reward, total_step = 0, 0
     while True:
-        # env.render()
+        env.render()
         action, _state = model.predict(state)
         next_state, reward, done, _ = env.step(action)
         state = next_state
@@ -44,7 +44,7 @@ for episode in trange(episodes):
             reward_per_episode.append(total_reward)
             break
 
-# env.close()
+env.close()
 plt.axhline(y = 200, color = 'g', linestyle = '-')
 plt.axhline(y = 0, color = 'r', linestyle = '-')
 plt.plot(reward_per_episode)
