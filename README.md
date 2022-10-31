@@ -12,3 +12,9 @@ TRPO 3 people
 28-10-2022 Finish the eassy
 
 29-10-2022 Final check gramma
+
+19-11-2022 Finish PowerPoint
+
+11-11-2022 Finish all algo running
+
+21-11-2022 Submit PPT and Practise
