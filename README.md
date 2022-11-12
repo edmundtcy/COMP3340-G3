@@ -13,8 +13,8 @@ TRPO 3 people
 
 29-10-2022 Final check gramma
 
-19-11-2022 Finish PowerPoint
-
 11-11-2022 Finish all algo running
+
+19-11-2022 Finish PowerPoint
 
 21-11-2022 Submit PPT and Practise
